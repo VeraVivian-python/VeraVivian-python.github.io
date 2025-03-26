@@ -1,7 +1,7 @@
-- 《异质性文本的情绪测度、金融市场及个股分析》论文
+- Heterogeneity in Text Sentiment Measurement, Financial Markets, and Individual Stock Analysis
 
-- 《职业教育、高等教育、继续教育协同创新机制研究》
+- Research on the Collaborative Innovation Mechanism among Vocational Education, Higher Education, and Continuing Education
   
-- 《教育数字化背亲下的教学优为奖评价指标体采构建及管理方案研究》
+- Research on the Construction of Teaching Evaluation Index System and Management Plan under the Background of Educational Digitalization
 
-- 《养老金融高质量发展:个人养老金基金的风险因素分析与对策研究》
+- High-Quality Development of Pension Finance: Risk Factor Analysis and Countermeasures for Personal Pension Funds
