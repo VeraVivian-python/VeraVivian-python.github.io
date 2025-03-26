@@ -1,21 +1,30 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **项目经历：**
+**2024.09-至今 科研项目 东北财经大学 项目组成员**
+撰写《异质性文本的情绪测度、金融市场及个股分析》（在投）。
+参与项目《职业教育、高等教育、继续教育协同创新机制研究》《教育数字化背亲下的教学优为奖评价指标体采构建及管理方案研究》《养老金融高质量发展:个人养老金基金的风险因素分析与对策研究》。
+**2019.01-2019.02 《中国企业对外投资转型》 中央财经大学 数据采集成员**
+参与学院张硕教授团队的项目《中国企业对外投资转型》，负责数据查找与收录工作，数据采集效率以及质量良好，获得老师肯定。
+**2018.09-2022.06 创新创业项目比赛 中央财经大学 队长&队员**
+-电子商务“创新、创意及创业”挑战赛(省二等奖、校三等奖)：
+项目“文创说”通过校级比赛的评选，获得校级三等奖，由初期的网页搭建商品交易后落地的网站。
+-大学生“互联网+”大赛(市级三等奖、校级三等奖)：
+项目“舒舍”原始团队队长，主要负责项目功能设计、项目报告撰写、项目进度统筹以及项目人员沟通，在参赛团队中负责项目细节细化以及市场分析
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+### **Project experiences：**  
+**September 2024 - Present Research Project Dongbei University of Finance and Economics Research Team Member**
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+Drafted the paper titled "Heterogeneous Text Sentiment Measurement, Financial Markets, and Individual Stock Analysis" (currently under submission).  
+Participated in the projects "Innovative Mechanism of Collaborative Development among Vocational Education, Higher Education, and Continuing Education," "Evaluation Index System and Management Plan for Teaching Excellence Awards under the Background of Educational Digitalization," and "High-Quality Development of Pension Finance: Risk Factors and Countermeasures for Personal Pension Funds."
 
----
+**January 2019 - February 2019 "Transformation of Chinese Enterprise Outward Investment" Central University of Finance and Economics Data Collection Member**
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+Participated in the project "Transformation of Chinese Enterprise Outward Investment" led by Professor Zhang Shuo. Responsible for data search and collection, with high efficiency and quality of data collection, earning recognition from the professor.
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+**September 2018 - June 2022 Innovation and Entrepreneurship Competition Central University of Finance and Economics Team Leader & Member**
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- E-Commerce "Innovation, Creativity, and Entrepreneurship" Challenge (Provincial Second Prize, University Third Prize):  
+  The project "Cultural and Creative Talk" won the university-level third prize, initially starting as a web-based transaction platform and later evolving into a fully operational website.  
+
+- "Internet Plus" Competition for College Students (Municipal Third Prize, University Third Prize):  
+  Served as the original team leader for the project "Shu She," mainly responsible for project function design, report writing, project progress coordination, and team communication. Focused on project detail refinement and market analysis within the competition team. 
+
