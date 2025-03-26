@@ -1,3 +1,13 @@
-干部：校十佳“芮+”导师；校三好学生、校优秀学生干部。
-竞赛：电子商务“创新、 创意及创业”挑战赛北京省级二等奖、校级三等奖；“互联网+”大赛北京市级三等奖、校级三等奖；2018及2019年校“商务英语谈判大赛”校级二等奖。
-奖学金：全面发展奖学金二等奖、学业优秀奖学金、科研优秀奖学金。
+**Awards and Honors:**
+- Recognized as one of the top 10 "Rui+" mentors at the university.
+- Honored as an Outstanding Student and an Outstanding Student Leader at the university.
+
+**Competitions:**
+- E-commerce "Innovation, Creativity, and Entrepreneurship" Challenge: Second Prize at the Beijing provincial level, Third Prize at the university level.
+- "Internet Plus" Competition: Third Prize at the Beijing municipal level, Third Prize at the university level.
+- "Business English Negotiation Competition" at the university: Second Prize in 2018 and 2019.
+
+**Scholarships:**
+- Comprehensive Development Scholarship (Second Prize).
+- Academic Excellence Scholarship.
+- Research Excellence Scholarship.
