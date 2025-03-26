@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/VeraVivian-python)
 
 I'm currently pursuing a Master's degree in Fintech in Dongbei university of Finance and Economics(DUFE)
 
