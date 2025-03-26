@@ -14,5 +14,6 @@ I'm currently pursuing a Master's degree in Fintech in Dongbei university of Fin
 **Central University of Finance and Economics**, Bachelor of International Economics and Trade (2018 – 2022)
 
 • GPA：3.4/4.0
+
 • Major Classes：International Trade,International Finance
 
