@@ -2,9 +2,9 @@
 
 I'm currently pursuing a Master's degree in Fintech in Dongbei university of Finance and Economics(DUFE)
 
-#### Email  
-<code>lss13610871021@163.com</code>  
-<code>lishanshanlss1021@gmail.com</code>
+#### Contact
+<code>Mail：lss13610871021@163.com</code>  
+<code>Tele：13610871021</code>
 
 #### Education  
 **Dongbei university of Finance and Economics**, Master of Fintech (2024 – 2026)  
